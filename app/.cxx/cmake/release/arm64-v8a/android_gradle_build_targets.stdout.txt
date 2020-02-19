@@ -1,0 +1,389 @@
+ninja: Entering directory `D:\GitHub\Trime\app\.cxx\cmake\release\arm64-v8a'
+[1/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/port/port_posix_sse.cc.o
+[2/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/port/port_posix.cc.o
+[3/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/util/status.cc.o
+[4/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/util/options.cc.o
+[5/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/util/bloom.cc.o
+[6/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/util/arena.cc.o
+[7/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/util/filter_policy.cc.o
+[8/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/util/logging.cc.o
+[9/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/util/comparator.cc.o
+[10/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/util/crc32c.cc.o
+[11/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/util/coding.cc.o
+[12/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/util/cache.cc.o
+[13/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/util/hash.cc.o
+[14/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/util/env.cc.o
+[15/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/binary.cpp.o
+[16/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/util/histogram.cc.o
+[17/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/directives.cpp.o
+[18/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/util/env_posix.cc.o
+[19/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/emit.cpp.o
+[20/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/emitter.cpp.o
+[21/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/convert.cpp.o
+[22/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/emitfromevents.cpp.o
+[23/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/emitterstate.cpp.o
+[24/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/memory.cpp.o
+[25/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/emitterutils.cpp.o
+[26/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/null.cpp.o
+[27/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/exceptions.cpp.o
+[28/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/node.cpp.o
+[29/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/nodebuilder.cpp.o
+[30/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/exp.cpp.o
+[31/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/node_data.cpp.o
+[32/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/ostream_wrapper.cpp.o
+[33/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/nodeevents.cpp.o
+[34/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/regex_yaml.cpp.o
+[35/280] Building CXX object CMakeFiles/rime_api_console.dir/librime/tools/rime_api_console.cc.o
+[36/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/scantag.cpp.o
+[37/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/scanscalar.cpp.o
+[38/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/tag.cpp.o
+[39/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/parse.cpp.o
+[40/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/parser.cpp.o
+[41/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/simplekey.cpp.o
+[42/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/stream.cpp.o
+[43/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/Segmentation.cpp.o
+[44/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/scanner.cpp.o
+[45/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/scantoken.cpp.o
+[46/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/Converter.cpp.o
+[47/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/Dict.cpp.o
+[48/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/Conversion.cpp.o
+[49/280] Building CXX object CMakeFiles/yaml-cpp-static.dir/yaml-cpp/src/singledocparser.cpp.o
+[50/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/DartsDict.cpp.o
+[51/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/DictConverter.cpp.o
+[52/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/ConversionChain.cpp.o
+[53/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/BinaryDict.cpp.o
+[54/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/SimpleConverter.cpp.o
+[55/280] Linking CXX static library libyaml-cpp-static.a
+[56/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/MaxMatchSegmentation.cpp.o
+[57/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/UTF8StringSlice.cpp.o
+[58/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/DictEntry.cpp.o
+[59/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/DictGroup.cpp.o
+[60/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/UTF8Util.cpp.o
+[61/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/TextDict.cpp.o
+[62/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/Config.cpp.o
+[63/280] Building CXX object CMakeFiles/opencc.dir/OpenCC/src/PhraseExtract.cpp.o
+[64/280] Building CXX object CMakeFiles/rime_dict_manager.dir/librime/tools/rime_dict_manager.cc.o
+[65/280] Building CXX object CMakeFiles/opencc_tool.dir/OpenCC/src/tools/CommandLine.cpp.o
+D:/GitHub/Trime/app/src/main/jni/OpenCC/src/tools/CommandLine.cpp:87:38: warning: 'tmpnam' is deprecated: tempnam is unsafe, use mkstemp or tmpfile instead [-Wdeprecated-declarations]
+    const string tempFileName = std::tmpnam(nullptr);
+                                     ^
+D:/AndroidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\stdio.h:167:5: note: 'tmpnam' has been explicitly marked deprecated here
+    __warnattr("tempnam is unsafe, use mkstemp or tmpfile instead");
+    ^
+D:/AndroidSDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\sys/cdefs.h:130:40: note: expanded from macro '__warnattr'
+#define __warnattr(msg) __attribute__((deprecated(msg)))
+                                       ^
+1 warning generated.
+[66/280] Building CXX object CMakeFiles/opencc_dict.dir/OpenCC/src/tools/DictConverter.cpp.o
+[67/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/commit_history.cc.o
+[68/280] Linking CXX shared library D:\GitHub\Trime\app\build\intermediates\cmake\release\obj\arm64-v8a\libopencc.so
+[69/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/composition.cc.o
+[70/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/candidate.cc.o
+[71/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/config/build_info_plugin.cc.o
+[72/280] Linking CXX executable opencc_tool
+[73/280] Linking CXX executable opencc_dict
+[74/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/algo/algebra.cc.o
+[75/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/config/auto_patch_config_plugin.cc.o
+[76/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/algo/syllabifier.cc.o
+[77/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/algo/utilities.cc.o
+[78/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/config/config_component.cc.o
+[79/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/config/legacy_dictionary_config_plugin.cc.o
+[80/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/db_utils.cc.o
+[81/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/config/default_config_plugin.cc.o
+[82/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/config/config_compiler.cc.o
+[83/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/config/save_output_plugin.cc.o
+[84/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/config/legacy_preset_config_plugin.cc.o
+[85/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/dict_settings.cc.o
+[86/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/context.cc.o
+[87/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/algo/encoder.cc.o
+[88/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/algo/calculus.cc.o
+[89/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/config/config_types.cc.o
+[90/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/config/config_data.cc.o
+[91/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/db.cc.o
+[92/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/core_module.cc.o
+[93/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/dict_module.cc.o
+[94/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/dict_compiler.cc.o
+[95/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/mapped_file.cc.o
+[96/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/corrector.cc.o
+[97/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/dictionary.cc.o
+[98/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/level_db.cc.o
+[99/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/deployer.cc.o
+[100/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/preset_vocabulary.cc.o
+[101/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/reverse_lookup_filter.cc.o
+[102/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/schema_list_translator.cc.o
+[103/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/reverse_lookup_translator.cc.o
+[104/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/entry_collector.cc.o
+[105/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/navigator.cc.o
+[106/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/poet.cc.o
+[107/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/text_db.cc.o
+[108/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/punctuator.cc.o
+[109/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/memory.cc.o
+[110/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/tsv.cc.o
+[111/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/table_db.cc.o
+[112/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/reverse_lookup_dictionary.cc.o
+[113/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/prism.cc.o
+[114/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/string_table.cc.o
+[115/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/table.cc.o
+[116/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/user_db.cc.o
+[117/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/affix_segmentor.cc.o
+[118/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/abc_segmentor.cc.o
+[119/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/ascii_segmentor.cc.o
+[120/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/vocabulary.cc.o
+[121/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/recognizer.cc.o
+[122/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/user_db_recovery_task.cc.o
+[123/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/ascii_composer.cc.o
+[124/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/filter_commons.cc.o
+[125/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/fallback_segmentor.cc.o
+[126/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/echo_translator.cc.o
+[127/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/contextual_translation.cc.o
+[128/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/dict/user_dictionary.cc.o
+[129/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/charset_filter.cc.o
+[130/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/gears_module.cc.o
+[131/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/matcher.cc.o
+[132/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/ticket.cc.o
+[133/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/history_translator.cc.o
+[134/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/engine.cc.o
+[135/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/chord_composer.cc.o
+[136/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/editor.cc.o
+[137/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/key_binder.cc.o
+[138/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/signature.cc.o
+[139/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/codepoint_translator.cc.o
+[140/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/key_table.cc.o
+[141/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/translation.cc.o
+[142/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime_api.cc.o
+[143/280] Building CXX object CMakeFiles/rime_console.dir/librime/tools/rime_console.cc.o
+[144/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/selector.cc.o
+[145/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/single_char_filter.cc.o
+[146/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/switcher.cc.o
+[147/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/shape.cc.o
+[148/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/switch_translator.cc.o
+[149/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/language.cc.o
+[150/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/uniquifier.cc.o
+[151/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/unity_table_encoder.cc.o
+[152/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/simplifier.cc.o
+[153/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/lever/customizer.cc.o
+[154/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/script_translator.cc.o
+[155/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/key_event.cc.o
+[156/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/registry.cc.o
+[157/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/lever/custom_settings.cc.o
+[158/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/menu.cc.o
+[159/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/resource.cc.o
+[160/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/table_translator.cc.o
+[161/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/module.cc.o
+[162/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/speller.cc.o
+[163/280] Building CXX object CMakeFiles/marisa-static.dir/marisa-trie/lib/marisa/grimoire/io/mapper.cc.o
+[164/280] Building CXX object CMakeFiles/marisa-static.dir/marisa-trie/lib/marisa/agent.cc.o
+[165/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/lever/levers_module.cc.o
+[166/280] Building CXX object CMakeFiles/marisa-build.dir/marisa-trie/tools/cmdopt.cc.o
+[167/280] Building CXX object CMakeFiles/marisa-build.dir/marisa-trie/tools/marisa-build.cc.o
+[168/280] Building CXX object CMakeFiles/marisa-lookup.dir/marisa-trie/tools/cmdopt.cc.o
+[169/280] Building CXX object CMakeFiles/marisa-lookup.dir/marisa-trie/tools/marisa-lookup.cc.o
+[170/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/setup.cc.o
+[171/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/lever/switcher_settings.cc.o
+[172/280] Building CXX object CMakeFiles/rime_patch.dir/librime/tools/rime_patch.cc.o
+[173/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/lever/user_dict_manager.cc.o
+[174/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/segmentation.cc.o
+[175/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/schema.cc.o
+[176/280] Building CXX object CMakeFiles/marisa-static.dir/marisa-trie/lib/marisa/keyset.cc.o
+[177/280] Building CXX object CMakeFiles/snappy-static.dir/snappy/snappy-sinksource.cc.o
+[178/280] Building CXX object CMakeFiles/marisa-static.dir/marisa-trie/lib/marisa/grimoire/io/writer.cc.o
+[179/280] Building CXX object CMakeFiles/marisa-static.dir/marisa-trie/lib/marisa/grimoire/vector/bit-vector.cc.o
+[180/280] Building CXX object CMakeFiles/marisa-static.dir/marisa-trie/lib/marisa/trie.cc.o
+[181/280] Building CXX object CMakeFiles/rime_deployer.dir/librime/tools/rime_deployer.cc.o
+[182/280] Building CXX object CMakeFiles/marisa-static.dir/marisa-trie/lib/marisa/grimoire/io/reader.cc.o
+[183/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/gear/translator_commons.cc.o
+[184/280] Building CXX object CMakeFiles/marisa-benchmark.dir/marisa-trie/tools/cmdopt.cc.o
+[185/280] Building CXX object CMakeFiles/snappy-static.dir/snappy/snappy.cc.o
+[186/280] Building CXX object CMakeFiles/rime_jni.dir/librime_jni/key_table.cc.o
+[187/280] Building CXX object CMakeFiles/marisa-static.dir/marisa-trie/lib/marisa/grimoire/trie/tail.cc.o
+[188/280] Building CXX object CMakeFiles/rime_jni.dir/librime_jni/levers.cc.o
+[189/280] Building CXX object CMakeFiles/miniglog-static.dir/miniglog/miniglog/logging.cc.o
+[190/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/service.cc.o
+[191/280] Building CXX object CMakeFiles/marisa-common-prefix-search.dir/marisa-trie/tools/cmdopt.cc.o
+[192/280] Building CXX object CMakeFiles/marisa-reverse-lookup.dir/marisa-trie/tools/cmdopt.cc.o
+[193/280] Building CXX object CMakeFiles/rime_jni.dir/librime_jni/rime_jni.cc.o
+[194/280] Building CXX object CMakeFiles/marisa-reverse-lookup.dir/marisa-trie/tools/marisa-reverse-lookup.cc.o
+[195/280] Building CXX object CMakeFiles/marisa-benchmark.dir/marisa-trie/tools/marisa-benchmark.cc.o
+[196/280] Building CXX object CMakeFiles/marisa-predictive-search.dir/marisa-trie/tools/marisa-predictive-search.cc.o
+[197/280] Building CXX object CMakeFiles/rime_jni.dir/librime_jni/rime.cc.o
+[198/280] Building CXX object CMakeFiles/marisa-static.dir/marisa-trie/lib/marisa/grimoire/trie/louds-trie.cc.o
+[199/280] Building CXX object CMakeFiles/marisa-predictive-search.dir/marisa-trie/tools/cmdopt.cc.o
+[200/280] Building CXX object CMakeFiles/rime.dir/librime/src/rime/lever/deployment_tasks.cc.o
+In file included from D:/GitHub/Trime/app/src/main/jni/librime/src/rime/lever/deployment_tasks.cc:10:
+In file included from include\boost/uuid/random_generator.hpp:17:
+In file included from include\boost/random/mersenne_twister.hpp:30:
+In file included from include\boost/random/detail/seed_impl.hpp:26:
+In file included from include\boost/random/detail/const_mod.hpp:23:
+In file included from include\boost/random/detail/large_arithmetic.hpp:19:
+In file included from include\boost/random/detail/integer_log2.hpp:19:
+include\boost/pending/integer_log2.hpp:7:1: warning: This header is deprecated. Use <boost/integer/integer_log2.hpp> instead. [-W#pragma-messages]
+BOOST_HEADER_DEPRECATED("<boost/integer/integer_log2.hpp>");
+^
+include\boost/config/header_deprecated.hpp:23:37: note: expanded from macro 'BOOST_HEADER_DEPRECATED'
+# define BOOST_HEADER_DEPRECATED(a) BOOST_PRAGMA_MESSAGE("This header is deprecated. Use " a " instead.")
+                                    ^
+include\boost/config/pragma_message.hpp:24:34: note: expanded from macro 'BOOST_PRAGMA_MESSAGE'
+# define BOOST_PRAGMA_MESSAGE(x) _Pragma(BOOST_STRINGIZE(message(x)))
+                                 ^
+<scratch space>:442:2: note: expanded from here
+ message("This header is deprecated. Use " "<boost/integer/integer_log2.hpp>" " instead.")
+ ^
+1 warning generated.
+[201/280] Building CXX object CMakeFiles/marisa-common-prefix-search.dir/marisa-trie/tools/marisa-common-prefix-search.cc.o
+[202/280] Linking CXX static library libminiglog-static.a
+[203/280] Linking CXX static library libsnappy-static.a
+[204/280] Building CXX object CMakeFiles/rime_jni.dir/librime_jni/opencc.cc.o
+[205/280] Building C object CMakeFiles/iconv-static.dir/libiconv/lib/relocatable.c.o
+[206/280] Building CXX object CMakeFiles/marisa-dump.dir/marisa-trie/tools/marisa-dump.cc.o
+[207/280] Linking CXX static library libmarisa-static.a
+[208/280] Building CXX object CMakeFiles/marisa-dump.dir/marisa-trie/tools/cmdopt.cc.o
+[209/280] Building C object CMakeFiles/iconv-static.dir/libiconv/libcharset/lib/localcharset.c.o
+D:/GitHub/Trime/app/src/main/jni/libiconv/libcharset/lib/localcharset.c:184:19: warning: implicit declaration of function 'close' is invalid in C99 [-Wimplicit-function-declaration]
+                  close (fd);
+                  ^
+1 warning generated.
+[210/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/filesystem/src/path_traits.cpp.o
+[211/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/instances.cpp.o
+[212/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/filesystem/src/portability.cpp.o
+[213/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/filesystem/src/unique_path.cpp.o
+[214/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/filesystem/src/codecvt_error_category.cpp.o
+[215/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/filesystem/src/path.cpp.o
+[216/280] Linking CXX executable marisa-benchmark
+[217/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/regex.cpp.o
+[218/280] Linking CXX executable marisa-lookup
+[219/280] Linking CXX executable marisa-build
+[220/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/filesystem/src/windows_file_codecvt.cpp.o
+[221/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/filesystem/src/utf8_codecvt_facet.cpp.o
+[222/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/c_regex_traits.cpp.o
+[223/280] Building CXX object CMakeFiles/opencc_phrase_extract.dir/OpenCC/src/tools/PhraseExtract.cpp.o
+[224/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/icu.cpp.o
+[225/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/regex_raw_buffer.cpp.o
+[226/280] Building C object CMakeFiles/iconv-static.dir/libiconv/lib/iconv.c.o
+In file included from D:/GitHub/Trime/app/src/main/jni/libiconv/lib/iconv.c:71:
+In file included from D:/GitHub/Trime/app/src/main/jni/libiconv/lib/converters.h:245:
+In file included from D:/GitHub/Trime/app/src/main/jni/libiconv/lib/cp950.h:129:
+D:/GitHub/Trime/app/src/main/jni/libiconv/lib/cp950ext.h:38:11: warning: equality comparison with extraneous parentheses [-Wparentheses-equality]
+  if ((c1 == 0xf9)) {
+       ~~~^~~~~~~
+D:/GitHub/Trime/app/src/main/jni/libiconv/lib/cp950ext.h:38:11: note: remove extraneous parentheses around the comparison to silence this warning
+  if ((c1 == 0xf9)) {
+      ~   ^      ~
+D:/GitHub/Trime/app/src/main/jni/libiconv/lib/cp950ext.h:38:11: note: use '=' to turn this equality comparison into an assignment
+  if ((c1 == 0xf9)) {
+          ^~
+          =
+In file included from D:/GitHub/Trime/app/src/main/jni/libiconv/lib/iconv.c:71:
+In file included from D:/GitHub/Trime/app/src/main/jni/libiconv/lib/converters.h:247:
+In file included from D:/GitHub/Trime/app/src/main/jni/libiconv/lib/big5hkscs2001.h:47:
+D:/GitHub/Trime/app/src/main/jni/libiconv/lib/hkscs2001.h:62:11: warning: equality comparison with extraneous parentheses [-Wparentheses-equality]
+  if ((c1 == 0x8c)) {
+       ~~~^~~~~~~
+D:/GitHub/Trime/app/src/main/jni/libiconv/lib/hkscs2001.h:62:11: note: remove extraneous parentheses around the comparison to silence this warning
+  if ((c1 == 0x8c)) {
+      ~   ^      ~
+D:/GitHub/Trime/app/src/main/jni/libiconv/lib/hkscs2001.h:62:11: note: use '=' to turn this equality comparison into an assignment
+  if ((c1 == 0x8c)) {
+          ^~
+          =
+In file included from D:/GitHub/Trime/app/src/main/jni/libiconv/lib/iconv.c:71:
+In file included from D:/GitHub/Trime/app/src/main/jni/libiconv/lib/converters.h:249:
+In file included from D:/GitHub/Trime/app/src/main/jni/libiconv/lib/big5hkscs2008.h:47:
+D:/GitHub/Trime/app/src/main/jni/libiconv/lib/hkscs2008.h:58:11: warning: equality comparison with extraneous parentheses [-Wparentheses-equality]
+  if ((c1 == 0x87)) {
+       ~~~^~~~~~~
+D:/GitHub/Trime/app/src/main/jni/libiconv/lib/hkscs2008.h:58:11: note: remove extraneous parentheses around the comparison to silence this warning
+  if ((c1 == 0x87)) {
+      ~   ^      ~
+D:/GitHub/Trime/app/src/main/jni/libiconv/lib/hkscs2008.h:58:11: note: use '=' to turn this equality comparison into an assignment
+  if ((c1 == 0x87)) {
+          ^~
+          =
+In file included from D:/GitHub/Trime/app/src/main/jni/libiconv/lib/iconv.c:154:
+lib/aliases.gperf:288:28: warning: static variable 'aliases' is used in an inline function with external linkage [-Wstatic-in-inline]
+          register int o = aliases[key].name;
+                           ^
+lib/aliases.gperf:274:1: note: use 'static' to give inline function 'aliases_lookup' internal linkage
+__inline
+^
+static 
+lib/aliases.gperf:781:27: note: 'aliases' declared here
+static const struct alias aliases[] =
+                          ^
+lib/aliases.gperf:291:44: warning: static variable 'stringpool_contents' is used in an inline function with external linkage [-Wstatic-in-inline]
+              register const char *s = o + stringpool;
+                                           ^
+lib/aliases.gperf:779:37: note: expanded from macro 'stringpool'
+#define stringpool ((const char *) &stringpool_contents)
+                                    ^
+lib/aliases.gperf:274:1: note: use 'static' to give inline function 'aliases_lookup' internal linkage
+__inline
+^
+static 
+lib/aliases.gperf:427:34: note: 'stringpool_contents' declared here
+static const struct stringpool_t stringpool_contents =
+                                 ^
+lib/aliases.gperf:294:25: warning: static variable 'aliases' is used in an inline function with external linkage [-Wstatic-in-inline]
+                return &aliases[key];
+                        ^
+lib/aliases.gperf:274:1: note: use 'static' to give inline function 'aliases_lookup' internal linkage
+__inline
+^
+static 
+lib/aliases.gperf:781:27: note: 'aliases' declared here
+static const struct alias aliases[] =
+                          ^
+6 warnings generated.
+[227/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/filesystem/src/operations.cpp.o
+[228/280] Linking CXX executable marisa-predictive-search
+[229/280] Linking CXX executable marisa-dump
+[230/280] Linking CXX executable marisa-reverse-lookup
+[231/280] Linking CXX executable marisa-common-prefix-search
+[232/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/fileiter.cpp.o
+[233/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/cpp_regex_traits.cpp.o
+[234/280] Linking C static library libiconv-static.a
+[235/280] Linking CXX executable opencc_phrase_extract
+[236/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/system/src/error_code.cpp.o
+[237/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/static_mutex.cpp.o
+[238/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/w32_regex_traits.cpp.o
+[239/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/regex_debug.cpp.o
+[240/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/winstances.cpp.o
+[241/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/usinstances.cpp.o
+[242/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/db/builder.cc.o
+[243/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/regex_traits_defaults.cpp.o
+[244/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/wc_regex_traits.cpp.o
+[245/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/db/dbformat.cc.o
+[246/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/db/c.cc.o
+[247/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/locale/src/encoding/codepage.cpp.o
+[248/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/db/db_iter.cc.o
+[249/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/table/block_builder.cc.o
+[250/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/table/two_level_iterator.cc.o
+[251/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/table/iterator.cc.o
+[252/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/db/dumpfile.cc.o
+[253/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/table/table_builder.cc.o
+[254/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/table/format.cc.o
+[255/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/table/table.cc.o
+[256/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/table/merger.cc.o
+[257/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/table/filter_block.cc.o
+[258/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/db/table_cache.cc.o
+[259/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/db/log_writer.cc.o
+[260/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/db/db_impl.cc.o
+[261/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/db/version_edit.cc.o
+[262/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/db/filename.cc.o
+[263/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/db/log_reader.cc.o
+[264/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/db/write_batch.cc.o
+[265/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/db/memtable.cc.o
+[266/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/table/block.cc.o
+[267/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/posix_api.cpp.o
+[268/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/db/repair.cc.o
+[269/280] Building CXX object CMakeFiles/leveldb-static.dir/leveldb/db/version_set.cc.o
+[270/280] Linking CXX static library libleveldb-static.a
+[271/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/wide_posix_api.cpp.o
+[272/280] Building CXX object CMakeFiles/boost-static.dir/boost/libs/regex/src/cregex.cpp.o
+[273/280] Linking CXX static library libboost-static.a
+[274/280] Linking CXX shared library D:\GitHub\Trime\app\build\intermediates\cmake\release\obj\arm64-v8a\librime.so
+[275/280] Linking CXX executable rime_dict_manager
+[276/280] Linking CXX executable rime_api_console
+[277/280] Linking CXX executable rime_patch
+[278/280] Linking CXX shared library D:\GitHub\Trime\app\build\intermediates\cmake\release\obj\arm64-v8a\librime_jni.so
+[279/280] Linking CXX executable rime_console
+[280/280] Linking CXX executable rime_deployer

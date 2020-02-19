@@ -1,123 +1,35 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="153.60001"
-   height="153.60001"
-   viewBox="0 0 144 144"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.92.0 r"
-   sodipodi:docname="icon.svg"
-   inkscape:export-filename="res/drawable-xxhdpi/icon.png"
-   inkscape:export-xdpi="24"
-   inkscape:export-ydpi="24">
-  <defs
-     id="defs4">
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Drop Shadow"
-       id="filter3371">
-      <feFlood
-         flood-opacity="0.498039"
-         flood-color="rgb(0,0,0)"
-         result="flood"
-         id="feFlood3373" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite3375" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="3"
-         result="blur"
-         id="feGaussianBlur3377" />
-      <feOffset
-         dx="0"
-         dy="0"
-         result="offset"
-         id="feOffset3379" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite3381" />
-    </filter>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="-1062.677"
-     inkscape:cy="368.52192"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="829"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-188.5714,-232.3622)">
-    <rect
-       id="rect3348"
-       width="144"
-       height="144"
-       x="188.5714"
-       y="232.3622"
-       style="fill:#ffffff"
-       inkscape:export-filename="res/drawable-xxhdpi/icon.png"
-       inkscape:export-xdpi="24"
-       inkscape:export-ydpi="24"
-       ry="72" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:180px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3371)"
-       x="193.42857"
-       y="350.36221"
-       id="text3344"
-       inkscape:export-xdpi="24"
-       inkscape:export-ydpi="24"
-       inkscape:export-filename="res/drawable-xxhdpi/icon.png"><tspan
-         sodipodi:role="line"
-         id="tspan3346"
-         x="193.42857"
-         y="350.36221"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:135px;font-family:'文泉驛微米黑';-inkscape-font-specification:'文泉驛微米黑'">ㄓ</tspan></text>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="res/drawable-xxhdpi/icon.png" inkscape:export-xdpi="24" inkscape:export-ydpi="24" inkscape:version="0.92.0 r" sodipodi:docname="icon.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 153.6 153.6"
+	 style="enable-background:new 0 0 153.6 153.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<filter  id="filter3371" inkscape:label="Drop Shadow" style="color-interpolation-filters:sRGB">
+	<feFlood  flood-color="rgb(0,0,0)" flood-opacity="0.498039" id="feFlood3373" result="flood"></feFlood>
+	<feComposite  id="feComposite3375" in="flood" in2="SourceGraphic" operator="in" result="composite1"></feComposite>
+	<feGaussianBlur  id="feGaussianBlur3377" in="composite1" result="blur" stdDeviation="3"></feGaussianBlur>
+	<feOffset  dx="0" dy="0" id="feOffset3379" result="offset"></feOffset>
+	<feComposite  id="feComposite3381" in="SourceGraphic" in2="offset" operator="over" result="composite2"></feComposite>
+</filter>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" id="base" inkscape:current-layer="layer1" inkscape:cx="-1062.677" inkscape:cy="368.52192" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="829" inkscape:window-maximized="1" inkscape:window-width="1440" inkscape:window-x="0" inkscape:window-y="34" inkscape:zoom="0.24748737" pagecolor="#ffffff" showgrid="false" units="px">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(-188.5714,-232.3622)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	
+		<path id="rect3348" inkscape:export-filename="res/drawable-xxhdpi/icon.png" inkscape:export-xdpi="24" inkscape:export-ydpi="24" class="st0" d="
+		M265.4,232.4L265.4,232.4c42.4,0,76.8,34.4,76.8,76.8l0,0c0,42.4-34.4,76.8-76.8,76.8l0,0c-42.4,0-76.8-34.4-76.8-76.8l0,0
+		C188.6,266.7,223,232.4,265.4,232.4z"/>
+</g>
+<circle class="st1" cx="76.8" cy="76.8" r="50"/>
+<g>
+	<g>
+		<path d="M53.6,54.8v38.6h-4.3V54.8H53.6z"/>
+		<path d="M97.8,93.5l-26-31c-0.3-0.4-0.6-0.8-1-1.2c-0.3-0.4-0.6-0.8-0.8-1.2h-0.2c0,0.3,0.1,0.8,0.1,1.3c0,0.6,0,1.3,0,2.2v29.9
+			h-4.3V54.8h4.8l25.6,30.6c0.4,0.5,0.7,0.9,1.1,1.4s0.6,0.8,0.9,1.2h0.2c-0.1-0.6-0.2-1.3-0.2-2c0-0.7-0.1-1.6-0.1-2.5V54.8h4.4
+			v38.6H97.8z"/>
+	</g>
+</g>
 </svg>

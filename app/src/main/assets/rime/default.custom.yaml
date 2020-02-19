@@ -1,0 +1,9 @@
+customization:
+  distribution_code_name: ""
+  distribution_version: ""
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Fri Dec 13 20:36:21 2019"
+  rime_version: 1.5.3
+patch:
+  schema_list:
+    - {schema: terra_jiugong}

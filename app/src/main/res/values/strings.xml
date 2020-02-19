@@ -20,34 +20,25 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:en:xliff:document:1.2">
     <!-- Input Method Platform Tittle  -->
-    <string name="ime_name">Trime</string>
+    <string name="ime_name">INPUT</string>
     <!-- Preference settings -->
-    <string name="pref_help">Help</string>
-    <string name="pref_wiki">Wiki</string>
-    <string name="pref_issues">Report Issues</string>
-    <string name="pref_trime_qq">Trime QQ Group</string>
-    <string name="pref_trime_qq2">Trime QQ Group 2</string>
-    <string name="pref_rime_qq">Rime QQ Group</string>
-    <string name="pref_market">Google Play</string>
-    <string name="pref_coolmarket">Cool Market</string>
-    <string name="pref_donate">Donate</string>
-    <string name="pref_donate_summary">Use Alipay to support TRIME and PRIME</string>
+    <string name="pref_contact_us">Contact US</string>
+
     <string name="pref_about">About</string>
     <string name="pref_librime_ver">RIME Version</string>
     <string name="pref_opencc_ver">OpenCC Version</string>
     <string name="pref_changelog">Change Log</string>
     <string name="pref_licensing">License</string>
-    <string name="pref_credits">Credits</string>
-    <string name="pref_pime">Win10 PRIME Platform</string>
+
     <string name="pref_privacy">Privacy Policy</string>
     <string name="pref_input">Input</string>
     <string name="pref_enable">Enable</string>
-    <string name="pref_enable_summary">Enable TRIME</string>
+    <string name="pref_enable_summary">Enable INPUT</string>
     <string name="pref_select">Change Keyboard</string>
-    <string name="pref_select_summary">Select TRIME</string>
+    <string name="pref_select_summary">Select INPUT</string>
     <string name="pref_themes">Themes</string>
     <string name="pref_themes_summary">Select Desired Theme</string>
-    <string name="pref_themes_name_tongwenfeng">Tongwenfeng</string>
+    <string name="pref_themes_name_tongwenfeng">TwStyle</string>
     <string name="pref_themes_name_trime">Default</string>
     <string name="pref_schemas">Schemas</string>
     <string name="pref_schemas_summary">Select Installed Schema</string>
@@ -95,4 +86,6 @@
     <string name="pref_destroy_on_quit">Free memory on quit</string>
     <string name="shared_data_dir">Shared directory</string>
     <string name="user_data_dir">User directory</string>
+    <string name="default_shared_data_dir">/sdcard/rime</string>
+    <string name="default_user_data_dir">/sdcard/rime</string>
 </resources>
