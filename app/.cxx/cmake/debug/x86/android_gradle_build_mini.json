@@ -15627,7 +15627,7 @@
   "cleanCommands": [
     "D:\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\Trime\\app\\.cxx\\cmake\\debug\\x86\" clean"
   ],
-  "buildTargetsCommand": "D:\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\Trime\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "D:\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\GitHub\\Trime\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
     "marisa-reverse-lookup-release-x86": {
       "artifactName": "marisa-reverse-lookup",
@@ -15671,17 +15671,17 @@
       "abi": "x86",
       "output": "D:\\GitHub\\Trime\\app\\.cxx\\cmake\\debug\\x86\\libmarisa-static.a"
     },
-    "marisa-benchmark-release-x86": {
-      "artifactName": "marisa-benchmark",
-      "buildCommand": "D:\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\Trime\\app\\.cxx\\cmake\\debug\\x86\" marisa-benchmark",
-      "abi": "x86",
-      "output": "D:\\GitHub\\Trime\\app\\.cxx\\cmake\\debug\\x86\\marisa-benchmark"
-    },
     "yaml-cpp-static-release-x86": {
       "artifactName": "yaml-cpp-static",
       "buildCommand": "D:\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\Trime\\app\\.cxx\\cmake\\debug\\x86\" yaml-cpp-static",
       "abi": "x86",
       "output": "D:\\GitHub\\Trime\\app\\.cxx\\cmake\\debug\\x86\\libyaml-cpp-static.a"
+    },
+    "marisa-benchmark-release-x86": {
+      "artifactName": "marisa-benchmark",
+      "buildCommand": "D:\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\Trime\\app\\.cxx\\cmake\\debug\\x86\" marisa-benchmark",
+      "abi": "x86",
+      "output": "D:\\GitHub\\Trime\\app\\.cxx\\cmake\\debug\\x86\\marisa-benchmark"
     },
     "marisa-dump-release-x86": {
       "artifactName": "marisa-dump",

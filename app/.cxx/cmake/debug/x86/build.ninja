@@ -372,35 +372,35 @@ build marisa-benchmark: CXX_EXECUTABLE_LINKER__marisa-benchmark CMakeFiles/maris
 
 build cmake_object_order_depends_target_rime_jni: phony || cmake_object_order_depends_target_boost-static cmake_object_order_depends_target_iconv-static cmake_object_order_depends_target_leveldb-static cmake_object_order_depends_target_marisa-static cmake_object_order_depends_target_miniglog-static cmake_object_order_depends_target_opencc cmake_object_order_depends_target_rime cmake_object_order_depends_target_snappy-static cmake_object_order_depends_target_yaml-cpp-static
 build CMakeFiles/rime_jni.dir/librime_jni/key_table.cc.o: CXX_COMPILER__rime_jni D$:/GitHub/Trime/app/src/main/jni/librime_jni/key_table.cc || cmake_object_order_depends_target_rime_jni
-  DEFINES = -DBOOST_SIGNALS2 -DCLASSNAME=\"com/osfans/trime/Rime\" -DLIBRIME_VERSION=\"1.5.3-8-g3b5dbf6-x86\" -DOPENCC_VERSION=\"ver.1.0.5-63-g192c50f\" -DTRIME_VERSION=\"3.1.3-20191218\" -DYAML_CPP_NO_CONTRIB -Drime_jni_EXPORTS
+  DEFINES = -DBOOST_SIGNALS2 -DCLASSNAME=\"com/osfans/trime/Rime\" -DLIBRIME_VERSION=\"1.5.3-8-g3b5dbf6-x86\" -DOPENCC_VERSION=\"ver.1.0.5-63-g192c50f\" -DTRIME_VERSION=\"3.1.3-1-g9513e69a-20200226\" -DYAML_CPP_NO_CONTRIB -Drime_jni_EXPORTS
   DEP_FILE = CMakeFiles\rime_jni.dir\librime_jni\key_table.cc.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -frtti -fexceptions  -O2 -DNDEBUG  -fPIC   -fPIC
   INCLUDES = -ID:/GitHub/Trime/app/src/main/jni/librime/src -ID:/GitHub/Trime/app/src/main/jni/librime/thirdparty/include -ID:/GitHub/Trime/app/src/main/jni/marisa-trie/include -ID:/GitHub/Trime/app/src/main/jni/leveldb/include -ID:/GitHub/Trime/app/src/main/jni/yaml-cpp/include -ID:/GitHub/Trime/app/src/main/jni/libiconv/include -ID:/GitHub/Trime/app/src/main/jni/snappy -Iinclude
   OBJECT_DIR = CMakeFiles\rime_jni.dir
   OBJECT_FILE_DIR = CMakeFiles\rime_jni.dir\librime_jni
 build CMakeFiles/rime_jni.dir/librime_jni/levers.cc.o: CXX_COMPILER__rime_jni D$:/GitHub/Trime/app/src/main/jni/librime_jni/levers.cc || cmake_object_order_depends_target_rime_jni
-  DEFINES = -DBOOST_SIGNALS2 -DCLASSNAME=\"com/osfans/trime/Rime\" -DLIBRIME_VERSION=\"1.5.3-8-g3b5dbf6-x86\" -DOPENCC_VERSION=\"ver.1.0.5-63-g192c50f\" -DTRIME_VERSION=\"3.1.3-20191218\" -DYAML_CPP_NO_CONTRIB -Drime_jni_EXPORTS
+  DEFINES = -DBOOST_SIGNALS2 -DCLASSNAME=\"com/osfans/trime/Rime\" -DLIBRIME_VERSION=\"1.5.3-8-g3b5dbf6-x86\" -DOPENCC_VERSION=\"ver.1.0.5-63-g192c50f\" -DTRIME_VERSION=\"3.1.3-1-g9513e69a-20200226\" -DYAML_CPP_NO_CONTRIB -Drime_jni_EXPORTS
   DEP_FILE = CMakeFiles\rime_jni.dir\librime_jni\levers.cc.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -frtti -fexceptions  -O2 -DNDEBUG  -fPIC   -fPIC
   INCLUDES = -ID:/GitHub/Trime/app/src/main/jni/librime/src -ID:/GitHub/Trime/app/src/main/jni/librime/thirdparty/include -ID:/GitHub/Trime/app/src/main/jni/marisa-trie/include -ID:/GitHub/Trime/app/src/main/jni/leveldb/include -ID:/GitHub/Trime/app/src/main/jni/yaml-cpp/include -ID:/GitHub/Trime/app/src/main/jni/libiconv/include -ID:/GitHub/Trime/app/src/main/jni/snappy -Iinclude
   OBJECT_DIR = CMakeFiles\rime_jni.dir
   OBJECT_FILE_DIR = CMakeFiles\rime_jni.dir\librime_jni
 build CMakeFiles/rime_jni.dir/librime_jni/opencc.cc.o: CXX_COMPILER__rime_jni D$:/GitHub/Trime/app/src/main/jni/librime_jni/opencc.cc || cmake_object_order_depends_target_rime_jni
-  DEFINES = -DBOOST_SIGNALS2 -DCLASSNAME=\"com/osfans/trime/Rime\" -DLIBRIME_VERSION=\"1.5.3-8-g3b5dbf6-x86\" -DOPENCC_VERSION=\"ver.1.0.5-63-g192c50f\" -DTRIME_VERSION=\"3.1.3-20191218\" -DYAML_CPP_NO_CONTRIB -Drime_jni_EXPORTS
+  DEFINES = -DBOOST_SIGNALS2 -DCLASSNAME=\"com/osfans/trime/Rime\" -DLIBRIME_VERSION=\"1.5.3-8-g3b5dbf6-x86\" -DOPENCC_VERSION=\"ver.1.0.5-63-g192c50f\" -DTRIME_VERSION=\"3.1.3-1-g9513e69a-20200226\" -DYAML_CPP_NO_CONTRIB -Drime_jni_EXPORTS
   DEP_FILE = CMakeFiles\rime_jni.dir\librime_jni\opencc.cc.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -frtti -fexceptions  -O2 -DNDEBUG  -fPIC   -fPIC
   INCLUDES = -ID:/GitHub/Trime/app/src/main/jni/librime/src -ID:/GitHub/Trime/app/src/main/jni/librime/thirdparty/include -ID:/GitHub/Trime/app/src/main/jni/marisa-trie/include -ID:/GitHub/Trime/app/src/main/jni/leveldb/include -ID:/GitHub/Trime/app/src/main/jni/yaml-cpp/include -ID:/GitHub/Trime/app/src/main/jni/libiconv/include -ID:/GitHub/Trime/app/src/main/jni/snappy -Iinclude
   OBJECT_DIR = CMakeFiles\rime_jni.dir
   OBJECT_FILE_DIR = CMakeFiles\rime_jni.dir\librime_jni
 build CMakeFiles/rime_jni.dir/librime_jni/rime.cc.o: CXX_COMPILER__rime_jni D$:/GitHub/Trime/app/src/main/jni/librime_jni/rime.cc || cmake_object_order_depends_target_rime_jni
-  DEFINES = -DBOOST_SIGNALS2 -DCLASSNAME=\"com/osfans/trime/Rime\" -DLIBRIME_VERSION=\"1.5.3-8-g3b5dbf6-x86\" -DOPENCC_VERSION=\"ver.1.0.5-63-g192c50f\" -DTRIME_VERSION=\"3.1.3-20191218\" -DYAML_CPP_NO_CONTRIB -Drime_jni_EXPORTS
+  DEFINES = -DBOOST_SIGNALS2 -DCLASSNAME=\"com/osfans/trime/Rime\" -DLIBRIME_VERSION=\"1.5.3-8-g3b5dbf6-x86\" -DOPENCC_VERSION=\"ver.1.0.5-63-g192c50f\" -DTRIME_VERSION=\"3.1.3-1-g9513e69a-20200226\" -DYAML_CPP_NO_CONTRIB -Drime_jni_EXPORTS
   DEP_FILE = CMakeFiles\rime_jni.dir\librime_jni\rime.cc.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -frtti -fexceptions  -O2 -DNDEBUG  -fPIC   -fPIC
   INCLUDES = -ID:/GitHub/Trime/app/src/main/jni/librime/src -ID:/GitHub/Trime/app/src/main/jni/librime/thirdparty/include -ID:/GitHub/Trime/app/src/main/jni/marisa-trie/include -ID:/GitHub/Trime/app/src/main/jni/leveldb/include -ID:/GitHub/Trime/app/src/main/jni/yaml-cpp/include -ID:/GitHub/Trime/app/src/main/jni/libiconv/include -ID:/GitHub/Trime/app/src/main/jni/snappy -Iinclude
   OBJECT_DIR = CMakeFiles\rime_jni.dir
   OBJECT_FILE_DIR = CMakeFiles\rime_jni.dir\librime_jni
 build CMakeFiles/rime_jni.dir/librime_jni/rime_jni.cc.o: CXX_COMPILER__rime_jni D$:/GitHub/Trime/app/src/main/jni/librime_jni/rime_jni.cc || cmake_object_order_depends_target_rime_jni
-  DEFINES = -DBOOST_SIGNALS2 -DCLASSNAME=\"com/osfans/trime/Rime\" -DLIBRIME_VERSION=\"1.5.3-8-g3b5dbf6-x86\" -DOPENCC_VERSION=\"ver.1.0.5-63-g192c50f\" -DTRIME_VERSION=\"3.1.3-20191218\" -DYAML_CPP_NO_CONTRIB -Drime_jni_EXPORTS
+  DEFINES = -DBOOST_SIGNALS2 -DCLASSNAME=\"com/osfans/trime/Rime\" -DLIBRIME_VERSION=\"1.5.3-8-g3b5dbf6-x86\" -DOPENCC_VERSION=\"ver.1.0.5-63-g192c50f\" -DTRIME_VERSION=\"3.1.3-1-g9513e69a-20200226\" -DYAML_CPP_NO_CONTRIB -Drime_jni_EXPORTS
   DEP_FILE = CMakeFiles\rime_jni.dir\librime_jni\rime_jni.cc.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -frtti -fexceptions  -O2 -DNDEBUG  -fPIC   -fPIC
   INCLUDES = -ID:/GitHub/Trime/app/src/main/jni/librime/src -ID:/GitHub/Trime/app/src/main/jni/librime/thirdparty/include -ID:/GitHub/Trime/app/src/main/jni/marisa-trie/include -ID:/GitHub/Trime/app/src/main/jni/leveldb/include -ID:/GitHub/Trime/app/src/main/jni/yaml-cpp/include -ID:/GitHub/Trime/app/src/main/jni/libiconv/include -ID:/GitHub/Trime/app/src/main/jni/snappy -Iinclude
